@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aprendendo A Sintaxe Java/Aprendendo A Sintaxe Java.iml" filepath="$PROJECT_DIR$/Aprendendo A Sintaxe Java/Aprendendo A Sintaxe Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DioJavaLearningRepo.iml" filepath="$PROJECT_DIR$/.idea/DioJavaLearningRepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioSmartTV/ExercicioSmartTV.iml" filepath="$PROJECT_DIR$/ExercicioSmartTV/ExercicioSmartTV.iml" />
+    </modules>
+  </component>
+</project>
